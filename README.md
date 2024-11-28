@@ -1,3 +1,5 @@
+<h1 align="left">Hello! 👋</h1>
+
 ###
 
 <p align="left">I am Helwinn Singson a web developer from the Philippines</p>
@@ -40,4 +42,3 @@
 
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helwinn-singson-017996281) 
-<h1 align="left">Hello! 👋</h1>
