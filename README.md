@@ -40,5 +40,8 @@
 
 ###
 
-🌐 Socials:
+<h3 align="left">🌐 Socials:</h3>
+
+###
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helwinn-singson-017996281) 
