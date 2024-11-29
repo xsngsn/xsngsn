@@ -1,8 +1,8 @@
 <h1 align="left">Hello! 👋</h1>
 
-#
+###
 
-<p align="left">I am a web developer from the Philippines</p>
+<p align="left">I am a passionate and creative <b> Web Developer </b> from the Philippines focusing on crafting modern, responsive, and user-friendly websites. Whether it's building from scratch or improving existing projects, I thrive on turning ideas into functional digital experiences.</p>
 
 ##
 
