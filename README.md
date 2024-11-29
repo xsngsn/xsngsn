@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Angular<br>🎲 Fun fact: Can surely solve anything</p>
+<p align="left">✨ Fixing bugs since 2019<br>📚 I'm currently learning Angular<br>🎲 Fun fact: Can surely solve anything</p>
 
 ##
 
