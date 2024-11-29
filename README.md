@@ -4,7 +4,7 @@
 
 <p align="left">I am a web developer from the Philippines</p>
 
-###
+##
 
 <h3 align="left">About me:</h3>
 
@@ -12,7 +12,7 @@
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Angular<br>🎲 Fun fact: Can Surely solve anything</p>
 
-###
+##
 
 <h3 align="left">Specialties:</h3>
 
@@ -53,9 +53,7 @@
 ###
 
 Hit me up, let's work together!
-
-##
-
+<br>
 helwinnsingson651@gmail.com
 
 ###
