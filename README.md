@@ -1,4 +1,4 @@
-<h1 align="left">Hello! 👋</h1><br>
+<h1 align="left">Hello! 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Angular<br>🎲 Fun fact: Can Surely solve anything</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Angular<br>🎲 Fun fact: Can surely solve anything</p>
 
 ##
 
