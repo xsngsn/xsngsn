@@ -1,6 +1,6 @@
 <h1 align="left">Hello! 👋</h1>
 
-###
+#
 
 <p align="left">I am a web developer from the Philippines</p>
 
@@ -46,7 +46,7 @@
   <img width="12" />
 </div>
 
-###
+##
 
 <h3 align="left">🌐 Socials:</h3>
 
