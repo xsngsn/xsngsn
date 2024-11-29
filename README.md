@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Helwinn Singson a web developer from the Philippines</p>
+<p align="left">I am a web developer from the Philippines</p>
 
 ###
 
@@ -49,6 +49,10 @@
 ###
 
 <h3 align="left">🌐 Socials:</h3>
+
+###
+
+Hit me up, let's work together!
 
 ###
 
